@@ -2,6 +2,8 @@
 
 CREAT DATABASE crudopreation;
 
+-- CREATE THE CRUD TABLE
+
 CREAT TABLE crud (
     id int(11) NOT NULL PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(100),
