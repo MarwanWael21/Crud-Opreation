@@ -1,2 +1,2 @@
-# Crud-Opreation
+# PHP CRUD
 Crup Oreation Web App
